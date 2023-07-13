@@ -8,11 +8,15 @@ background-attachment: fixed;
      font-family: "Courier New";
      color: white;
      text-align: center;
-     text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000
+     text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+     text-style:bold;
 }
 h1{
 font-size:50px;
   }
+h2{
+     font-size:40px;
+}
 ul,p {
 font-size: 30px;
 list-style-type: none;
