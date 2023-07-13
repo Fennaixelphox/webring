@@ -10,3 +10,8 @@ background-attachment: fixed;
      text-align: center;
      text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000
 }
+ul {
+     list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
