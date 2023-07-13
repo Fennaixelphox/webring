@@ -6,7 +6,9 @@ background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
      }
-h1 {
+h1,p {
      font-family: courier;
-     
+     color: white;
+     text-align: center;
+     text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000
 }
