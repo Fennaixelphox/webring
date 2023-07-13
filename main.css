@@ -1,7 +1,11 @@
 body {
 background-color: #666666;
 background-image: url('https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3NvbGFyLXN5c3RlbS1qdXBpdGVyLW9yYml0LTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMTIwMCJ9fX0=');
-background-position: center;
+background-position: center center;
 background-size: cover;
 background-repeat: no-repeat;
      }
+h1 {
+     font-family: courier-new;
+     
+}
